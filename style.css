@@ -1,0 +1,22 @@
+div{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 150px;
+    box-sizing: border-box;
+    background:lightblue;
+}
+button{
+    color:white;
+    background:purple ;
+    border-radius: 10px;
+}
+button:hover{
+    color:yellow;
+}
+input{
+    background:floralwhite;
+    width: 250px;
+    border-radius: 10px;
+}
